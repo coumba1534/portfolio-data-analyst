@@ -13,7 +13,7 @@ Je suis étudiante en Master **Big Data Analytics**, passionnée par la **Busine
 
 🎥 **Vidéo de démonstration :** cliquez sur l’image ci-dessous 👇🏽  
 
-[![Voir la démo Gestion de Stock](images/Capture d'écran 2025-09-20 201322.png)](https://drive.google.com/file/d/1jBDfSsRh93omS4ZSpOhpsLA_ueny0WvA/view?usp=sharing)
+[![Voir la démo Gestion de Stock](images/Capture_stock.png)](https://drive.google.com/file/d/1jBDfSsRh93omS4ZSpOhpsLA_ueny0WvA/view?usp=sharing)
 
 ---
 
@@ -25,7 +25,7 @@ Je suis étudiante en Master **Big Data Analytics**, passionnée par la **Busine
 
 🎥 **Vidéo de démonstration :** cliquez sur l’image ci-dessous 👇🏽  
 
-[![Voir la démo Pilotage Commercial](images/Capture d'écran 2025-11-04 202554.png)](https://drive.google.com/file/d/1lvJi_K3Ima5GAofbUz4wbxBKwDqy0zNi/view?usp=sharing)
+[![Voir la démo Pilotage Commercial](images/Capture_commerce.png)](https://drive.google.com/file/d/1lvJi_K3Ima5GAofbUz4wbxBKwDqy0zNi/view?usp=sharing)
 
 ---
 
