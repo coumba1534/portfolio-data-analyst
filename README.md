@@ -25,7 +25,7 @@ Je suis étudiante en Master **Big Data Analytics**, passionnée par la **Busine
 
 🎥 **Vidéo de démonstration :** cliquez sur l’image ci-dessous 👇🏽  
 
-[![Voir la démo Pilotage Commercial](images/Capture_commerce.png)](https://drive.google.com/file/d/1lvJi_K3Ima5GAofbUz4wbxBKwDqy0zNi/view?usp=sharing)
+[![Voir la démo Pilotage Commercial](images/Capture_commerce.png)](https://drive.google.com/file/d/1Zb707AVShCaPCWMDSGGVN7FOKqY-FWRq/view?usp=sharing)
 
 ---
 
