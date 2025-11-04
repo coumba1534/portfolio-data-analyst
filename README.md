@@ -13,7 +13,7 @@ Je suis étudiante en Master **Big Data Analytics**, passionnée par la **Busine
 
 🎥 **Vidéo de démonstration :** cliquez sur l’image ci-dessous 👇🏽  
 
-[![Voir la démo Gestion de Stock](capture_stock.png)](https://drive.google.com/file/d/1jBDfSsRh93omS4ZSpOhpsLA_ueny0WvA/view?usp=sharing)
+[![Voir la démo Gestion de Stock](Capture d'écran 2025-09-20 201322.png)](https://drive.google.com/file/d/1jBDfSsRh93omS4ZSpOhpsLA_ueny0WvA/view?usp=sharing)
 
 ---
 
