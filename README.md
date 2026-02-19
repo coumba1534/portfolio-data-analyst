@@ -29,6 +29,22 @@ Je suis étudiante en Master **Big Data Analytics**, passionnée par la **Busine
 
 ---
 
+## 📊 Analyse Business des Performances Commerciales (Python)
+**Objectif :** Identifier les leviers clés de performance à partir de données de ventes (produits, clients, régions).
+**Outils :** Python, Pandas, Matplotlib.
+**Résultats :**
+
+Analyse de la contribution produit et application du principe de Pareto (80/20).
+
+Identification d’une concentration du chiffre d’affaires sur un nombre limité de clients.
+
+Mise en évidence des disparités régionales et des axes d’optimisation commerciale.
+
+Production de visualisations claires pour appuyer la prise de décision.
+
+
+---
+
 ## 🧰 Compétences techniques
 - Power BI (DAX, modélisation, reporting interactif)  
 - Excel (TCD, Power Query, automatisation)  
