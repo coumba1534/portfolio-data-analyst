@@ -109,8 +109,8 @@ Exécution en environnement local (Windows + Hadoop
 
 ### 📂 Fichiers du projet
 
-- 📓 Code : [Voir le notebook](DeckProject.scala)
-- 📑 Base : [Télécharger le rapport](Deckofcards.txt)
+- 📓 Code : [Voir le code](DeckProject.scala)
+- 📑 Base : [Télécharger la base de données](Deckofcards.txt)
 
 ---
 
