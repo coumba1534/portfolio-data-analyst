@@ -52,6 +52,29 @@ Production de visualisations claires pour appuyer la prise de décision.
 - 📑 Version PDF : [Télécharger le rapport](Analyse_business.pdf)
 
 
+---
+## 💰 Analyse Financière & Modélisation Prédictive
+💰 Analyse Financière & Modélisation Prédictive
+
+**Objectif :**
+Réaliser une analyse financière complète afin de comprendre les relations entre les ventes, les coûts et la rentabilité, puis construire un modèle de régression pour prédire la performance financière.
+
+**Démarche :**
+
+Analyse exploratoire des données (EDA)
+
+Nettoyage et préparation des données
+
+Analyse unidimensionnelle et bidimensionnelle
+
+Vérification des hypothèses du modèle linéaire
+
+Modélisation par régression linéaire
+
+Interprétation économique des résultats
+**Résultats :**
+L’analyse a permis d’identifier plusieurs relations économiques importantes entre les variables financières.
+Le modèle de régression met en évidence une capacité explicative limitée, révélant la complexité du phénomène étudié et ouvrant la voie à des approches de modélisation plus avancées.
 
 
 ---
