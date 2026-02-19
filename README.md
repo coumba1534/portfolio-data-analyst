@@ -28,6 +28,23 @@ Je suis étudiante en Master **Big Data Analytics**, passionnée par la **Busine
 [![Voir la démo Pilotage Commercial](images/Capture_commerce.png)](https://drive.google.com/file/d/1Zb707AVShCaPCWMDSGGVN7FOKqY-FWRq/view?usp=sharing)
 
 ---
+## 💼 Dashboard – Marketing Digital (Looker Studio)
+
+**Objectif :**   Transformer les données marketing en décisions actionnables.
+**Outils :** Looker Studio
+**Résultats :** Tableaux de bord interactifs avec:
+le funnel de conversion (CTR → Clics → Leads → Conversions)
+
+la performance des campagnes
+
+le ROI et le CPA pour piloter la rentabilité
+
+![Marketing](images/LS1.png)
+
+
+
+
+---
 
 ## 📊 Analyse Business des Performances Commerciales (Python)
 **Objectif :** Identifier les leviers clés de performance à partir de données de ventes (produits, clients, régions).
