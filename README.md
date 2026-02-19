@@ -107,7 +107,10 @@ Utilisation de Spark SQL et DataFrame API
 
 Exécution en environnement local (Windows + Hadoop
 
-cliquez sur l’image ci-dessous 👇🏽 pour voir le projet
+### 📂 Fichiers du projet
+
+- 📓 Code : [Voir le notebook](DeckProject.scala)
+- 📑 Base : [Télécharger le rapport](Deckofcards.txt)
 
 ---
 
