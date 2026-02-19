@@ -79,6 +79,10 @@ Le modèle de régression met en évidence une capacité explicative limitée, r
 ### 📊 Aperçu du projet
 
 ![Analyse de la correlation](images/r.png)
+### 📂 Fichier du projet
+
+- 📓 Fichier R: [Voir le fichier](projet1.R)
+
 
 
 ---
