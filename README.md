@@ -42,6 +42,10 @@ Mise en évidence des disparités régionales et des axes d’optimisation comme
 
 Production de visualisations claires pour appuyer la prise de décision.
 
+## 📊 Aperçu du projet
+
+![Analyse Pareto](images/pareto.png)
+
 ## 📂 Fichiers du projet
 
 - 📓 Notebook interactif : [Voir le notebook](Analyse_Business.ipynb)
