@@ -41,9 +41,6 @@ le ROI et le CPA pour piloter la rentabilité
 
 ![Marketing](images/LS1.png)
 
-
-
-
 ---
 
 ## 📊 Analyse Business des Performances Commerciales (Python)
@@ -71,7 +68,6 @@ Production de visualisations claires pour appuyer la prise de décision.
 
 ---
 ## 💰 Analyse Financière & Modélisation Prédictive (Language R)
-💰 Analyse Financière & Modélisation Prédictive
 
 **Objectif :**
 Réaliser une analyse financière complète afin de comprendre les relations entre les ventes, les coûts et la rentabilité, puis construire un modèle de régression pour prédire la performance financière.
@@ -101,6 +97,17 @@ Le modèle de régression met en évidence une capacité explicative limitée, r
 - 📓 Fichier R: [Voir le fichier](projet1.R)
 
 
+---
+## 📈 Traitement de données avec Apache Spark
+Manipulation et transformation de datasets avec Scala
+
+Génération et export de données en JSON
+
+Utilisation de Spark SQL et DataFrame API
+
+Exécution en environnement local (Windows + Hadoop
+
+cliquez sur l’image ci-dessous 👇🏽 pour voir le projet
 
 ---
 
