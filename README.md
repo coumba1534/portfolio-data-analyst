@@ -44,7 +44,7 @@ Production de visualisations claires pour appuyer la prise de décision.
 
 ## 📊 Aperçu du projet
 
-[![Analyse Pareto](images/Analyse pareto.png)]
+![Analyse Pareto](images/analyse_pareto.png)
 
 ## 📂 Fichiers du projet
 
