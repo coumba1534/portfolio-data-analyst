@@ -42,18 +42,18 @@ Mise en évidence des disparités régionales et des axes d’optimisation comme
 
 Production de visualisations claires pour appuyer la prise de décision.
 
-## 📊 Aperçu du projet
+### 📊 Aperçu du projet
 
 ![Analyse Pareto](images/analyse_pareto.png)
 
-## 📂 Fichiers du projet
+### 📂 Fichiers du projet
 
 - 📓 Notebook interactif : [Voir le notebook](Analyse_business.ipynb)
 - 📑 Version PDF : [Télécharger le rapport](Analyse_business.pdf)
 
 
 ---
-## 💰 Analyse Financière & Modélisation Prédictive
+## 💰 Analyse Financière & Modélisation Prédictive (Language R)
 💰 Analyse Financière & Modélisation Prédictive
 
 **Objectif :**
@@ -75,6 +75,10 @@ Interprétation économique des résultats
 **Résultats :**
 L’analyse a permis d’identifier plusieurs relations économiques importantes entre les variables financières.
 Le modèle de régression met en évidence une capacité explicative limitée, révélant la complexité du phénomène étudié et ouvrant la voie à des approches de modélisation plus avancées.
+
+### 📊 Aperçu du projet
+
+![Analyse de la correlation](images/r.png)
 
 
 ---
