@@ -48,8 +48,9 @@ Production de visualisations claires pour appuyer la prise de décision.
 
 ## 📂 Fichiers du projet
 
-- 📓 Notebook interactif : [Voir le notebook](Analyse Business.ipynb)
-- 📑 Version PDF : [Télécharger le rapport](Analyse Business(1).pdf)
+- 📓 Notebook interactif : [Voir le notebook](Analyse_business.ipynb)
+- 📑 Version PDF : [Télécharger le rapport](Analyse_business.pdf)
+
 
 
 
