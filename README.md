@@ -1,7 +1,7 @@
 # 🎯 Portfolio – Coumba Amidou BA
 
 Bienvenue sur mon portfolio de projets en **Data Analysis** 👋🏽  
-Je suis étudiante en Master **Big Data Analytics**, passionnée par la **Business Intelligence** et la **valorisation des données**.
+Je suis **Data Analyst**, passionnée par la **Business Intelligence** et la **valorisation des données**.
 
 ---
 
@@ -27,6 +27,22 @@ Je suis étudiante en Master **Big Data Analytics**, passionnée par la **Busine
 
 [![Voir la démo Pilotage Commercial](images/Capture_commerce.png)](https://drive.google.com/file/d/1Zb707AVShCaPCWMDSGGVN7FOKqY-FWRq/view?usp=sharing)
 
+---
+## 💼 Dashboard – Analyse spatio-temporelle du paludisme au Sénégal  (Power BI)
+
+**Objectif :** analyser l’évolution de la maladie et mieux comprendre ses dynamiques à travers des indicateurs clés de santé publique.  
+**Outils :** Power BI, DAX.   
+**Le dashboard met en évidence :**
+• l’évolution des cas dans le temps (tendances, saisonnalité)
+• la répartition géographique par région
+• les indicateurs clés (cas positifs, hospitalisations, taux de positivité, mortalité)
+• les variations annuelles (hausse / baisse)
+• les zones les plus touchées via une analyse cartographique
+**Résultats :** Tableaux de bord interactifs par region, produit et région. 
+
+🎥 **Vidéo de démonstration :** cliquez sur l’image ci-dessous 👇🏽  
+
+[![Voir la démo Pilotage Commercial](images/Capture_commerce.png)](https://drive.google.com/file/d/1Zb707AVShCaPCWMDSGGVN7FOKqY-FWRq/view?usp=sharing)
 ---
 ## 💼 Dashboard – Marketing Digital (Looker Studio)
 
