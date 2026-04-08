@@ -31,16 +31,22 @@ Je suis **Data Analyst**, passionnée par la **Business Intelligence** et la **v
 **Objectif :** analyser l’évolution de la maladie et mieux comprendre ses dynamiques à travers des indicateurs clés de santé publique.  
 **Outils :** Power BI, DAX.   
 **Le dashboard met en évidence :**
-• l’évolution des cas dans le temps (tendances, saisonnalité)
-• la répartition géographique par région
-• les indicateurs clés (cas positifs, hospitalisations, taux de positivité, mortalité)
-• les variations annuelles (hausse / baisse)
-• les zones les plus touchées via une analyse cartographique
+- l’évolution des cas dans le temps (tendances, saisonnalité)
+- la répartition géographique par région
+- les indicateurs clés (cas positifs, hospitalisations, taux de positivité, mortalité)
+- les variations annuelles (hausse / baisse)
+- les zones les plus touchées via une analyse cartographique
 **Résultats :** Tableaux de bord interactifs par region, produit et région. 
 
   
-
+**Vue globale**
 ![Paludisme](images/PALU1.png)
+**Analyse régionale**
+![Paludisme](images/PALU2.png)
+**Gravité et impact sanitaire**
+![Paludisme](images/PALU3.png)
+
+
 ---
 ## 💼 Dashboard – Marketing Digital (Looker Studio)
 
@@ -53,7 +59,10 @@ la performance des campagnes
 
 le ROI et le CPA pour piloter la rentabilité
 
+**Vue globale**
 ![Marketing](images/LS1.png)
+**Analyse detaillée**
+![Marketing](images/LS2.png)
 
 ---
 
