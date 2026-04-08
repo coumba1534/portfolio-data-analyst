@@ -23,8 +23,6 @@ Je suis **Data Analyst**, passionnée par la **Business Intelligence** et la **v
 **Outils :** Power BI, DAX, modélisation relationnelle.  
 **Résultats :** Tableaux de bord interactifs par période, produit et région.  
 
-🎥 **Vidéo de démonstration :** cliquez sur l’image ci-dessous 👇🏽  
-
 [![Voir la démo Pilotage Commercial](images/Capture_commerce.png)](https://drive.google.com/file/d/1Zb707AVShCaPCWMDSGGVN7FOKqY-FWRq/view?usp=sharing)
 
 ---
@@ -40,9 +38,9 @@ Je suis **Data Analyst**, passionnée par la **Business Intelligence** et la **v
 • les zones les plus touchées via une analyse cartographique
 **Résultats :** Tableaux de bord interactifs par region, produit et région. 
 
-🎥 **Vidéo de démonstration :** cliquez sur l’image ci-dessous 👇🏽  
+  
 
-[![Voir la démo Pilotage Commercial](images/Capture_commerce.png)](https://drive.google.com/file/d/1Zb707AVShCaPCWMDSGGVN7FOKqY-FWRq/view?usp=sharing)
+![Paludisme](images/PALU1.png)
 ---
 ## 💼 Dashboard – Marketing Digital (Looker Studio)
 
