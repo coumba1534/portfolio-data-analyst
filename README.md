@@ -162,4 +162,4 @@ Exécution en environnement local (Windows + Hadoop
 **Coumba Amidou BA**  
 📧 bcoumba221@gmail.com  
 📱 +221 78 130 24 54  
-🌍 [LinkedIn](www.linkedin.com/in/coumba-amidou-ba-a96465241)
+🌍 [LinkedIn]([www.linkedin.com/in/coumba-amidou-ba-a96465241](https://www.linkedin.com/in/coumba-amidou-ba-a96465241?utm_source=share_via&utm_content=profile&utm_medium=member_ios))
