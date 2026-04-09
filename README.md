@@ -35,7 +35,7 @@ Je suis **Data Analyst**, passionnée par la **Business Intelligence** et la **v
 - la répartition géographique par région
 - les indicateurs clés (cas positifs, hospitalisations, taux de positivité, mortalité)
 - les variations annuelles (hausse / baisse)
-- les zones les plus touchées via une analyse cartographique
+- les zones les plus touchées via une analyse cartographique.
 **Résultats :** Tableaux de bord interactifs par region, produit et région. 
 
   
