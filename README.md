@@ -10,6 +10,16 @@ Je suis **Data Analyst**, passionnée par la **Business Intelligence** et la **v
 **Objectif :** Suivre les entrées, sorties et ruptures de stock.  
 **Outils :** Excel (TCD, graphiques dynamiques, segments)  
 **Résultats :** Indicateurs clés – stock total, top produits, alertes de rupture.  
+ 
+![Logistique](images/LS1.png)
+
+---
+
+## 📊 Dashboard – Analyse de la performance logistique (Excel)
+
+**Objectif :** Analyser les livraisons et identifier les facteurs qui impactent la ponctualité.  
+**Outils :** Excel (TCD, graphiques dynamiques, segments)  
+**Résultats :** Indicateurs clés – taux à temps vs retard, délais moyens, performance par transporteur et région, et tendances mensuelles. 
 
 🎥 **Vidéo de démonstration :** cliquez sur l’image ci-dessous 👇🏽  
 
