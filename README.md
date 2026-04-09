@@ -141,8 +141,8 @@ Exécution en environnement local (Windows + Hadoop
 - Power BI (DAX, modélisation, reporting interactif)  
 - Excel (TCD, Power Query, automatisation)  
 - SQL (requêtes, jointures)  
-- Python (pandas, numpy, matplotlib – en cours de renforcement)  
-- R (analyse, visualisation – en cours d’approfondissement)
+- Python (pandas, numpy, matplotlib)  
+- R (analyse, visualisation)
 
 ---
 
