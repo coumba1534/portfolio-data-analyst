@@ -11,7 +11,9 @@ Je suis **Data Analyst**, passionnée par la **Business Intelligence** et la **v
 **Outils :** Excel (TCD, graphiques dynamiques, segments)  
 **Résultats :** Indicateurs clés – stock total, top produits, alertes de rupture.  
  
-![Logistique](images/LS1.png)
+🎥 **Vidéo de démonstration :** cliquez sur l’image ci-dessous 👇🏽  
+
+[![Voir la démo Gestion de Stock](images/Capture_stock.png)](https://drive.google.com/file/d/1jBDfSsRh93omS4ZSpOhpsLA_ueny0WvA/view?usp=sharing)
 
 ---
 
@@ -21,9 +23,9 @@ Je suis **Data Analyst**, passionnée par la **Business Intelligence** et la **v
 **Outils :** Excel (TCD, graphiques dynamiques, segments)  
 **Résultats :** Indicateurs clés – taux à temps vs retard, délais moyens, performance par transporteur et région, et tendances mensuelles. 
 
-🎥 **Vidéo de démonstration :** cliquez sur l’image ci-dessous 👇🏽  
 
-[![Voir la démo Gestion de Stock](images/Capture_stock.png)](https://drive.google.com/file/d/1jBDfSsRh93omS4ZSpOhpsLA_ueny0WvA/view?usp=sharing)
+![Logistique](images/LOG.png)
+
 
 ---
 
