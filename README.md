@@ -1,23 +1,23 @@
-# 🎯 Portfolio – Coumba Amidou BA
+# Portfolio – Coumba Amidou BA
 
 Bienvenue sur mon portfolio de projets en **Data Analysis** 👋🏽  
 Je suis **Data Analyst**, passionnée par la **Business Intelligence** et la **valorisation des données**.
 
 ---
 
-## 📊 Dashboard – Gestion des Stocks (Excel)
+## Dashboard – Gestion des Stocks (Excel)
 
 **Objectif :** Suivre les entrées, sorties et ruptures de stock.  
 **Outils :** Excel (TCD, graphiques dynamiques, segments)  
 **Résultats :** Indicateurs clés – stock total, top produits, alertes de rupture.  
  
-🎥 **Vidéo de démonstration :** cliquez sur l’image ci-dessous 👇🏽  
+**Vidéo de démonstration :** cliquez sur l’image ci-dessous 👇🏽  
 
 [![Voir la démo Gestion de Stock](images/Capture_stock.png)](https://drive.google.com/file/d/1jBDfSsRh93omS4ZSpOhpsLA_ueny0WvA/view?usp=sharing)
 
 ---
 
-## 📊 Dashboard – Analyse de la performance logistique (Excel)
+## Dashboard – Analyse de la performance logistique (Excel)
 
 **Objectif :** Analyser les livraisons et identifier les facteurs qui impactent la ponctualité.  
 **Outils :** Excel (TCD, graphiques dynamiques, segments)  
@@ -29,7 +29,7 @@ Je suis **Data Analyst**, passionnée par la **Business Intelligence** et la **v
 
 ---
 
-## 💼 Dashboard – Pilotage Commercial (Power BI)
+## Dashboard – Pilotage Commercial (Power BI)
 
 **Objectif :** Analyser les ventes, coûts et marges pour une entreprise fictive.  
 **Outils :** Power BI, DAX, modélisation relationnelle.  
@@ -38,7 +38,7 @@ Je suis **Data Analyst**, passionnée par la **Business Intelligence** et la **v
 [![Voir la démo Pilotage Commercial](images/Capture_commerce.png)](https://drive.google.com/file/d/1Zb707AVShCaPCWMDSGGVN7FOKqY-FWRq/view?usp=sharing)
 
 ---
-## 💼 Dashboard – Analyse spatio-temporelle du paludisme au Sénégal  (Power BI)
+## Dashboard – Analyse spatio-temporelle du paludisme au Sénégal  (Power BI)
 
 **Objectif :** analyser l’évolution de la maladie et mieux comprendre ses dynamiques à travers des indicateurs clés de santé publique.  
 **Outils :** Power BI, DAX.   
@@ -60,7 +60,7 @@ Je suis **Data Analyst**, passionnée par la **Business Intelligence** et la **v
 
 
 ---
-## 💼 Dashboard – Marketing Digital (Looker Studio)
+## Dashboard – Marketing Digital (Looker Studio)
 
 **Objectif :**   Transformer les données marketing en décisions actionnables.
 **Outils :** Looker Studio
@@ -78,7 +78,7 @@ le ROI et le CPA pour piloter la rentabilité
 
 ---
 
-## 📊 Analyse Business des Performances Commerciales (Python)
+## Analyse Business des Performances Commerciales (Python)
 **Objectif :** Identifier les leviers clés de performance à partir de données de ventes (produits, clients, régions).
 **Outils :** Python, Pandas, Matplotlib.
 **Résultats :**
@@ -91,7 +91,7 @@ Mise en évidence des disparités régionales et des axes d’optimisation comme
 
 Production de visualisations claires pour appuyer la prise de décision.
 
-### 📊 Aperçu du projet
+### Aperçu du projet
 
 ![Analyse Pareto](images/analyse_pareto.png)
 
@@ -102,7 +102,7 @@ Production de visualisations claires pour appuyer la prise de décision.
 
 
 ---
-## 💰 Analyse Financière & Modélisation Prédictive (Language R)
+## Analyse Financière & Modélisation Prédictive (Language R)
 
 **Objectif :**
 Réaliser une analyse financière complète afin de comprendre les relations entre les ventes, les coûts et la rentabilité, puis construire un modèle de régression pour prédire la performance financière.
@@ -124,7 +124,7 @@ Interprétation économique des résultats
 L’analyse a permis d’identifier plusieurs relations économiques importantes entre les variables financières.
 Le modèle de régression met en évidence une capacité explicative limitée, révélant la complexité du phénomène étudié et ouvrant la voie à des approches de modélisation plus avancées.
 
-### 📊 Aperçu du projet
+### Aperçu du projet
 
 ![Analyse de la correlation](images/r.png)
 ### 📂 Fichier du projet
@@ -149,7 +149,7 @@ Exécution en environnement local (Windows + Hadoop
 
 ---
 
-## 🧰 Compétences techniques
+## Compétences techniques
 - Power BI (DAX, modélisation, reporting interactif)  
 - Excel (TCD, Power Query, automatisation)  
 - SQL (requêtes, jointures)  
